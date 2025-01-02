@@ -5,7 +5,6 @@ Thumbs.db
 
 # Build artifacts
 build/
-
 out/
 *.class
 *.pyc
@@ -42,7 +41,7 @@ secrets.json
 *.sln
 *.vcxproj
 *.vscode/
-
+*.idx/
 # OS generated files
 ehthumbs.db
 Icon?
